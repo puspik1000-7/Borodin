@@ -1,0 +1,70 @@
+.Iron_Man {
+width: 400px;
+height: 250px;
+background: -webkit-linear-gradient(45deg, rgb(199, 76, 76), rgb(255, 67, 0));
+background: -moz-linear-gradient(45deg, rgb(199, 76, 76), rgb(255, 67, 0));
+background: linear-gradient(45deg, rgb(199, 76, 76), rgb(255, 67, 0));
+margin-top: 40px;
+border-radius: 5%;
+
+}
+img {
+    width: 250px;
+    
+}
+
+.i_man {
+    position: absolute;
+    margin-top: -46px;
+}
+.ir_text {
+    margin-left: 250px;
+}
+.Spider_Man {
+    width: 400px;
+    height: 250px;
+    background: -webkit-linear-gradient(270deg, rgb(244, 0, 0), rgb(8, 13, 13));
+    background: -moz-linear-gradient(270deg, rgb(244, 0, 0), rgb(8, 13, 13));
+    background: linear-gradient(270deg, rgb(244, 0, 0), rgb(8, 13, 13));
+    margin-top: 50px;
+    border-radius: 5%;
+    
+    }
+    img {
+        width: 250px;
+        
+    }
+    
+    .s_man {
+        position: absolute;
+        margin-top: -83px;
+    }
+    .ir_text {
+        margin-left: 250px;
+        
+    }
+
+.Captain_America {
+    width: 400px;
+    height: 250px;
+    background: -webkit-linear-gradient(0deg, rgb(172, 137, 231), rgb(50, 69, 217));
+    background: -moz-linear-gradient(0deg, rgb(172, 137, 231), rgb(50, 69, 217));
+    background: linear-gradient(0deg, rgb(172, 137, 231), rgb(50, 69, 217));
+    margin-top: 500px;
+    border-radius: 5%;
+    
+    }
+    img {
+        width: 250px;
+        
+    }
+    
+    .c_man {
+        position: absolute;
+        margin-top: -10px;
+    }
+    .ir_text {
+        margin-left: 250px;
+        
+    }
+
